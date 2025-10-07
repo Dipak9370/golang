@@ -7,7 +7,7 @@ func isEven(num int) bool {
 }
 
 func main() {
-	number := 8 // Change this value to test other numbers
+	number := 11 // Change this value to test other numbers
 	if isEven(number) {
 		fmt.Printf("%d is even\n", number)
 	} else {
